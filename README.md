@@ -1,14 +1,13 @@
 # html-email-template
 
-
-###You need to remember that email design is very different to website design.
+### You need to remember that email design is very different to website design.
 
 
 > You need to ignore all usual standards, you need to use tables, inline styles, img tags etc.
 
 __________________________________________________________________
 
-** There are some important points that should be pay attention to it:**
+**There are some important points that should be pay attention to it:**
 
   - Use HTML *Tables* for Layout
   
