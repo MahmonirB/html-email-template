@@ -21,3 +21,7 @@ __________________________________________________________________
   
   - **Test, test, test**
 Finally, it is important to always test your emails on a variety of email clients. And be sure to test continuously, as features and support can change at any time!
+
+## Optional for test via gmail
+
+You could test your changes via adding extension such as [Free HTML Editor for Gmail by cloudHQ]: <https://chrome.google.com/webstore/detail/free-html-editor-for-gmai/ioinaaeeacahcmbgfmeaaofhfkijpdeb>
